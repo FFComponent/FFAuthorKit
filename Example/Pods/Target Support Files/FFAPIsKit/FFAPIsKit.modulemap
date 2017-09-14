@@ -1,0 +1,6 @@
+framework module FFAPIsKit {
+  umbrella header "FFAPIsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

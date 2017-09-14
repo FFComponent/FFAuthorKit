@@ -1,0 +1,6 @@
+framework module FFConfigsKit {
+  umbrella header "FFConfigsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

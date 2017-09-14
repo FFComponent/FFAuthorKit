@@ -1,0 +1,6 @@
+framework module FFMainViewKit {
+  umbrella header "FFMainViewKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

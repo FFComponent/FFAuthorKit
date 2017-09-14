@@ -1,0 +1,6 @@
+framework module FFReformerKeysKit {
+  umbrella header "FFReformerKeysKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

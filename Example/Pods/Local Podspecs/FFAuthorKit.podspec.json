@@ -1,0 +1,57 @@
+{
+  "name": "FFAuthorKit",
+  "version": "1",
+  "summary": "A short description of FFAuthorKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/FFComponent/FFAuthorKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kepuna": "yomingyo@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/FFComponent/FFAuthorKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFAuthorKit/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ],
+    "Masonry": [
+
+    ],
+    "YYWebImage": [
+
+    ],
+    "ReactiveCocoa": [
+      "~> 4.0.4-alpha-4"
+    ],
+    "FFCategoryKit": [
+
+    ],
+    "FFAPIsKit": [
+
+    ],
+    "FFReformerKeysKit": [
+
+    ],
+    "FFToolsKit": [
+
+    ],
+    "FFMainViewKit": [
+
+    ],
+    "FFConfigsKit": [
+
+    ],
+    "FFSpecialKit_Category": [
+
+    ]
+  }
+}
