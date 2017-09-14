@@ -17,7 +17,7 @@ PODS:
   - CTMediator (12)
   - FFAPIsKit (3):
     - AFNetworking
-  - FFAuthorKit (3):
+  - FFAuthorKit (4):
     - CTMediator
     - FFAPIsKit
     - FFCategoryKit
@@ -29,7 +29,7 @@ PODS:
     - Masonry
     - ReactiveCocoa (~> 4.0.4-alpha-4)
     - YYWebImage
-  - FFCategoryKit (4)
+  - FFCategoryKit (5)
   - FFConfigsKit (1)
   - FFMainViewKit (2)
   - FFReformerKeysKit (4)
@@ -71,8 +71,8 @@ SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   CTMediator: 83043d198b7ea73214d53375adfdd7f60edd4c1a
   FFAPIsKit: 003f3ab1681a5ef6f3bf353e4dbb58b96f768090
-  FFAuthorKit: 0349c4d09a78e9078af188746050ec9580dc8dc9
-  FFCategoryKit: 8b956c4a042911a64b9d430db66803a9b108d3b2
+  FFAuthorKit: 813e6ee51b31b79d8c5eb26aadcf09db66698179
+  FFCategoryKit: 2ec6dcf874dbfcf0c74dd2ad9be2330f516ac717
   FFConfigsKit: 1b24e51e38a1ec8c06eb189b04b5520771e6232f
   FFMainViewKit: d7cffb88e2551301e4c59a6cb47de3b1b289128f
   FFReformerKeysKit: e9d37d20c64c44b80c62bd940230c4eef4fde126
