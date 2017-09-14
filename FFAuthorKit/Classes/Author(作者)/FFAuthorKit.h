@@ -11,6 +11,7 @@
 #import <FFMainViewKit/FFMainViewKit-umbrella.h>
 #import <FFConfigsKit/FFConfigsKit-umbrella.h>
 #import <FFToolsKit/FFToolsKit-umbrella.h>
+#import <FFReformerKeysKit/FFReformerKeysKit-umbrella.h>
 #import <Masonry/Masonry.h>
 #import <ReactiveCocoa/ReactiveCocoa.h>
 #import <YYWebImage/YYWebImage.h>
